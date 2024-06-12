@@ -10,5 +10,4 @@ _Me chamo Ana Beatriz._
 
 0000111684600xsp@al.educacao.sp.gov.br
 
-![]() 
-https://media1.tenor.com/m/yaQFeaLiPG4AAAAC/megumin-explosion.gif
+![](https://media1.tenor.com/m/yaQFeaLiPG4AAAAC/megumin-explosion.gif)
